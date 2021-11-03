@@ -1,0 +1,3 @@
+[http]
+	sslVerify = false
+	sslCAInfo = C:/Users/Nickel/git-certs/cert.pem
